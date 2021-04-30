@@ -7,3 +7,5 @@
 客户端：m.cbpay.vip
 
 m.cbpay.vip/daily.apk
+
+商用加飞机：@hk_left01
