@@ -6,6 +6,6 @@
 
 客户端：m.cbpay.vip
 
-m.cbpay.vip/daily.apk
+m.cbpay.vip/daifu.apk
 
-商用加飞机：@hk_left01
+商用微信：yybaby199898
